@@ -153,3 +153,21 @@ before running the installer. Windows is never restarted automatically.
 **Tetapan › Privasi & diagnostik pilihan.** Off by default. When on, NEXUS sends once a week only the number of
 failed operations per module and update results — never files, paths, software lists, browser data, usage or
 hardware identifiers. See **Notis privasi (Privacy notice)** and `docs/PRIVACY.md`.
+
+## 17. Tentang & Sokongan (About & Support)
+
+**Tentang & Sokongan** (last item in the sidebar, or **Tetapan › Perihal › Tentang & Sokongan**) shows:
+
+1. **About the application** — name, version, description, developer (**CHOKS**, Independent Software Developer)
+   and the contact e-mail (click it to open your e-mail app).
+2. **Sokong NEXUS PC OPTIMIZER (Support)** — an optional, voluntary contribution starting from RM1. Scan the
+   DuitNow QR code with any Malaysian banking or e-wallet app and enter the amount you choose.
+3. **Legal and information** — privacy notice, terms of use, open-source licences and third-party libraries.
+
+Contributing is **completely voluntary**:
+
+- every feature stays **free**; nothing is unlocked, restricted or reminded based on whether you contribute;
+- NEXUS never asks for a contribution at start-up and shows no pop-ups;
+- the payment happens only in **your own banking app** — NEXUS does not process, track or record any transaction
+  and never asks you for bank details;
+- you never need to report a contribution, and a contribution is not a licence purchase.
